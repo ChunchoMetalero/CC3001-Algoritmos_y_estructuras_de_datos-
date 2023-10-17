@@ -1,7 +1,3 @@
-### Juan Ignacio Valdivia ###
-### 21.087.645-6 ###
-### Juan.valdivia.g@ug.uchile.cl ###
-
 def es_numero(Expresion_Junta, i):
     
     #Esta función recibe un string con todo el contenido a la derecha del "=" y un índice i, 
